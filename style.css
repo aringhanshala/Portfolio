@@ -654,6 +654,12 @@ span{
         transition: .5s ease;
     }
 
+    .footer-iconTop{
+        font-size: 1.4rem;
+        margin-top: 1.5rem;
+        color: var(--second-bg-color);
+    }
+
     .contact form .input-box input {
         width: 100%;
     }
@@ -677,6 +683,12 @@ span{
         width: 100%;
         height: 100%;
         transition: .5s ease;
+    }
+
+    .footer-iconTop{
+        font-size: 1.4rem;
+        margin-top: 1.5rem;
+        color: var(--second-bg-color);
     }
 
     .footer {
