@@ -13,8 +13,8 @@
     --bg-color:#1f242d;
     --second-bg-color: #323946;
     --text-color: #fff;
-    --main-color: #0ef;
-    --bgmi-color:red;
+    --main-color: #1DCD9F;
+    --bgmi-color: aqua;
     --bbgg-color:blue;
 }
 
@@ -46,6 +46,7 @@ header {
     margin: 0% auto;
     padding: 0.5rem 8.3%;
     z-index: 100;
+    background-color: var(--second-bg-color);
 }
 
 
